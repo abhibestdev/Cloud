@@ -1,0 +1,6 @@
+name: Cloud
+author: BlockGame Development Team
+version: 1.0
+main: us.blockgame.cloud.CloudPlugin
+api-version: 1.18
+depend: [Fabric]

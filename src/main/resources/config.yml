@@ -1,0 +1,7 @@
+motd: "Cloud"
+web:
+  upload-stats: true
+broadcasts:
+  - "Cloud 1"
+  - "Cloud 2"
+  - "Cloud 3"
